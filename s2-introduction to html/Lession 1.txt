@@ -1,0 +1,15 @@
+---HTTML HEADING ELEMENTS video---
+
+html tag -> <h1></h1> etc..
+html element -> <h1> Heading </h1>
+
+samo jedan h1 po stranici
+i ne preskakati sa h1 odma na h3 nego prvo na h3
+
+---HTML Paragraph Elements video---
+
+<hr /> tag -> horizontal rule horizontalna crta -> također void element
+moze se pisati i bez /
+
+
+
